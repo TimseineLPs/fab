@@ -9,4 +9,4 @@ bin           = @["fab"]
 
 # Dependencies
 
-requires "nim >= 0.18.0"
+
